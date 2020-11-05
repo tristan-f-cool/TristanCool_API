@@ -1,0 +1,11 @@
+Hello World,
+
+This is my master API I use for all my Arduino and Raspberry Pi prototypes.
+I have created SDK's and PCB's with my own design blocks, libraries and classes.
+I have read-me files and release records for each section of this work.
+My intent is to use these programs to rapidly create any project I could ever need!
+
+Tristan Cool
+2020
+
+https://github.com/tristan-f-cool/TristanCool_API
